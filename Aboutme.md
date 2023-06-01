@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LiaGrozav
-- 👀 I’m interested in Web Development and Scrum
-- 🌱 I’m currently learning Web Development
+- 👀 I’m passionate about Web Development and Scrum
 - 📫 How to reach me liagrozav@yahoo.com
 
 <!---
