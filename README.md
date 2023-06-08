@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub repository! I'm Lia, a passionate web developer with a love for languages and connecting with people.
+Welcome to my GitHub repository!
 
 ## About Me
  My journey as a web developer started with a simple curiosity and has evolved into a deep passion. I enjoy crafting beautiful and functional websites that provide delightful user experiences.
