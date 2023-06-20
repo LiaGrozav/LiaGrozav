@@ -7,7 +7,7 @@ Welcome to my GitHub repository!
 
 ## Skills
 
-- **Web Development**: I have experience working with HTML, CSS and JavaScript to build responsive and interactive web applications. I'm also proficient in modern frameworks and libraries such as React and Vue.js.
+- **Web Development**: I have experience working with HTML, CSS, JavaScript and React to build responsive and interactive web applications.
 
 - **Backend Development**: I have knowledge of server-side programming and working with databases. I'm comfortable with technologies like Node.js and Express.
 
