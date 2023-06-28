@@ -21,7 +21,7 @@ Here are a few highlights of my recent work:
 
 - [my-todo-app](https://github.com/LiaGrozav/my-todo-app): A responsive to do app with all the features buit from scratch with Ract. This project is part of my course at the DCI and was built in a team.
 
-- [![Codewars](https://www.codewars.com/users/LiaGrozav/badges/micro)](<https://www.codewars.com/users/LiaGrozav/badges/micro>)
+- Codewars Badge: [![Codewars](https://www.codewars.com/users/LiaGrozav/badges/micro)](<https://www.codewars.com/users/LiaGrozav/badges/micro>)
 
 
 ## Get in Touch
