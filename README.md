@@ -15,11 +15,14 @@ Welcome to my GitHub repository!
 
 ## Projects
 
-Here are a few highlights of my recent projects:
+Here are a few highlights of my recent work:
 
 - [rescue-me-demo](https://github.com/LiaGrozav/rescue-me-demo): An interactive website built with React and Node.js. It showcases my skills in frontend development and UI/UX design. This project is part of my course at the DCI and was built in a team.
 
 - [my-todo-app](https://github.com/LiaGrozav/my-todo-app): A responsive to do app with all the features buit from scratch with Ract. This project is part of my course at the DCI and was built in a team.
+
+- [![Codewars](https://www.codewars.com/users/LiaGrozav/badges/large)](<https://www.codewars.com/users/LiaGrozav/badges/large>)
+
 
 ## Get in Touch
 
